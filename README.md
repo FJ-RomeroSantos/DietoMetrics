@@ -4,6 +4,8 @@
 
 > Herramienta de apoyo para nutriólogos que convierte el cálculo manual de planes alimenticios en un proceso preciso, reproducible y hasta 10 veces más rápido — sin reemplazar el criterio profesional, sino potenciándolo.
 
+🚀 **Prueba la aplicación en vivo:** [DietoMetrics App](https://dietometricssuit-production.up.railway.app)
+
 ---
 
 ## ¿Qué problema resuelve?
